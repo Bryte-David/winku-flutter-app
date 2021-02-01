@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "937025168847",
+    "project_id": "winku-ec927",
+    "storage_bucket": "winku-ec927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937025168847:android:380c220697602073db1eba",
+        "android_client_info": {
+          "package_name": "com.brytedavid.winku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937025168847-nvj535ddaol15e8t5ve2lcqhbaj3rudg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brytedavid.winku",
+            "certificate_hash": "3180d99e29b88d09b937ab3b8e927a583db2b884"
+          }
+        },
+        {
+          "client_id": "937025168847-p25o01rarrk7f62i6f9f85k9p0dm3voh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOUojTsjhmGD_WAKFtqaKTvR_55Y2cdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937025168847-p25o01rarrk7f62i6f9f85k9p0dm3voh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
