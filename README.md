@@ -1,8 +1,11 @@
-# winku
+# winku Mobile Social Application 
 
 A new Flutter social application.
 
 ## Getting Started
+
+#For now this is just the UI
+#Backend with Firebase coming soon
 
 This project is a starting point for a Flutter application.
 
